@@ -16,7 +16,7 @@
 ![](https://clck.ru/Pidrg)| ![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) Python: основы и применение | Август 2019 |
 ![](https://clck.ru/Pidrg)| ![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Python:Настройка окружения  | Июль 2019 |
 ![](https://clck.ru/Pidrg)|  ![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) Программирование на Python  | Июнь 2020 |
-![](https://clck.ru/Pidrg)| ![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) Программирование на Python | Май 2020 |
+![](https://clck.ru/Pidrg)| ![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) Программирование на Python | Май 2020 |**
 
 [не нажимай сюда](https://github.com/Syknapse/My-Learning-Tracker)  
 
