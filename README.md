@@ -1,4 +1,4 @@
-## Это небольшое описания моего пути обучения на Python програмиста
+## Здесь описания моего  обучения на Python програмиста
 
 [ссылка на волосатого](https://github.com/Syknapse/My-Learning-Tracker)  
 Статус | Название курса |  Год
@@ -17,5 +17,5 @@
 ![](https://clck.ru/Pidrg)| b dct ujnjdjf | Август 2019 |
 ![](https://clck.ru/Pidrg)| b dct ujnjdjf | Июль 2019 |
 ![](https://clck.ru/Pidrg)| b dct ujnjdjf | Июнь 2020 |
-![](https://clck.ru/Pidrg)| b dct ujnjdjf | Май 2020 |
+![](https://clck.ru/Pidrg)| ![](https://clck.ru/Piecm)[Курс на образовательной платформе Stepik](https://stepik.org) Программирование на Python | Май 2020 |
 
