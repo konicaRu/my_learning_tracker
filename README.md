@@ -18,5 +18,5 @@
 ![](https://clck.ru/Pidrg)|  ![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) Программирование на Python  | Июнь 2020 |
 ![](https://clck.ru/Pidrg)| ![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) Программирование на Python | Май 2020 |
 
-[не нажимай сюда](https://github.com/Syknapse/My-Learning-Tracker)  
+[don't click here](https://github.com/Syknapse/My-Learning-Tracker)  
 
