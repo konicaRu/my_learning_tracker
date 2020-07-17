@@ -1,15 +1,15 @@
 [ссылка на волосатого](https://github.com/Syknapse/My-Learning-Tracker)  
 ## Здесь описания моего  обучения на Python програмиста
 
- ## Статус |  Название курса |   Год 
+  Статус |  Название курса |   Год 
 :-----------:|----------|------------------------:  
 ![](https://clck.ru/Pidrg)| b dct ujnjdjf | Июль 2020 |
-![](https://clck.ru/Pidrg)| b dct ujnjdjf | Июнь 2020 |
-![](https://clck.ru/Pidrg)| b dct ujnjdjf | Май 2020 |
-![](https://clck.ru/Pidrg)| b dct ujnjdjf | Апрель 2020 |
-![](https://clck.ru/Pidrg)| b dct ujnjdjf | Март 2020 |
-![](https://clck.ru/Pidrg)| b dct ujnjdjf | Февраль 2020 |
-![](https://clck.ru/Pidrg)| b dct ujnjdjf | Январь 2020 |
+![](https://clck.ru/Pidrg)| [tkinter: занятия с тьютором](https://github.com/konicaRu/python_task) | Июнь 2020 |
+![](https://clck.ru/Pidrg)| ![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Протокол HTTP| Май 2020 |
+![](https://clck.ru/Pidrg)| [Алгоритмы: занятия с тьютором](https://github.com/konicaRu/data_structures_and_algorithms)  | Апрель 2020 |
+![](https://clck.ru/Pidrg)| [Алгоритмы: занятия с тьютором](https://github.com/konicaRu/data_structures_and_algorithms)  | Март 2020 |
+![](https://clck.ru/Pidrg)| ![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Основы HTML, CSS и веб-дизайна | Февраль 2020 |
+![](https://clck.ru/Pidrg)| [Основы Python: занятия с тьютором](https://github.com/konicaRu/python_task)  | Январь 2020 |
 ![](https://clck.ru/Pidrg)| ![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) Основы статистики| Декабрь 2019 |
 ![](https://clck.ru/Pidrg)| ![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Системы контроля версий (GIT)| Ноябрь 2019 |
 ![](https://clck.ru/Pidrg)|![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Основы командной строки Linux| Октябрь 2019 |
