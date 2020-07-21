@@ -17,7 +17,7 @@
 ![](https://clck.ru/Pidrg)| Июль 2019 |  ![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Python:Настройка окружения |
 ![](https://clck.ru/Pidrg)|  Июнь 2019  |  ![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) Программирование на Python|
 ![](https://clck.ru/Pidrg)| Май 2019 | ![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) Программирование на Python |
-![](https://clck.ru/Pidrg)| Май 2019 | ![](https://clck.ru/Piecm) [English courses on an educational platform skyeng.ru ](https://skyeng.ru) B2 level|
+![](https://clck.ru/Pidrg)| Май 2019 | ![](https://raw.githubusercontent.com/konicaRu/My_learning_tracker/master/pictures/skyeng.JPG) [English courses on an educational platform skyeng.ru ](https://skyeng.ru) B2 level|
 
 [don't click here](https://github.com/Syknapse/My-Learning-Tracker)  
 
