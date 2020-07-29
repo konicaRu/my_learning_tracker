@@ -12,7 +12,7 @@
 ![](https://clck.ru/Pidrg)| Декабрь 2019 |  ![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) Основы статистики|
 ![](https://clck.ru/Pidrg)|Ноябрь 2019 |  ![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Системы контроля версий (GIT)|
 ![](https://clck.ru/Pidrg)|Октябрь 2019|  ![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Основы командной строки Linux|
-![](https://clck.ru/Pidrg)| Сентябрь 2019 |![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) Основы статистики
+![](https://clck.ru/Pidrg)| Сентябрь 2019 |![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io)Основы HTML, CSS и веб-дизайна
 ![](https://clck.ru/Pidrg)|  Август 2019 | ![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) Python: основы и применение|
 ![](https://clck.ru/Pidrg)| Июль 2019 |  ![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Python:Настройка окружения |
 ![](https://clck.ru/Pidrg)|  Июнь 2019  |  ![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) Программирование на Python|
