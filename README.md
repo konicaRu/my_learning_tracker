@@ -6,7 +6,7 @@
 ![](https://clck.ru/Pijr6)|Июль 2020|  ![](https://clck.ru/PihTj)  [Программа обучения по Data Science](https://praktikum.yandex.ru/profile/data-scientist/order/) |
 ![](https://clck.ru/Pidrg)|Июнь 2020|  ![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Python-программист|
 ![](https://clck.ru/Pidrg)|Май 2020|  ![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Протокол HTTP|
-![](https://clck.ru/Pidrg)|Апрель 2020|  [Алгоритмы и tkinter: занятия с тьютором:](https://vk.com/lambda_brain) [ссылка на мои упражнения](https://github.com/konicaRu/data_structures_and_algorithms), [упражнение с tkinter](https://github.com/konicaRu/studying_tkinter)|
+![](https://clck.ru/Pidrg)|Апрель 2020| [Алгоритмы и tkinter: занятия с тьютором:](https://vk.com/lambda_brain) [ссылка на мои упражнения](https://github.com/konicaRu/data_structures_and_algorithms), [упражнение с tkinter](https://github.com/konicaRu/studying_tkinter)|
 ![](https://clck.ru/Pidrg)|Март 2020|  Алгоритмы: занятия с тьютором: [ссылка на мои упражнения](https://github.com/konicaRu/data_structures_and_algorithms)  |
 ![](https://clck.ru/Pidrg)|Февраль 2020| ![](https://clck.ru/Piecm) [Курс на образовательной платформе Stepik](https://stepik.org) **Основы SQL.**   Простые SQL запросы, добавление, изменение, удаление, создание таблиц, индексы, изменение таблиц, поиск текста, вспомогательные функции, группировка данных, многотабличные запросы, вложенные запросы, составные условия, ограничение выборки, принцип работы без данных.|
 ![](https://clck.ru/Pidrg)|Январь 2020|  [Основы Python: занятия с тьютором:](https://vk.com/lambda_brain) [ссылка на мои упражнения](https://github.com/konicaRu/python_task)  |
