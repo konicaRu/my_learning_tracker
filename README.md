@@ -3,7 +3,7 @@
 
   Статус | Год |    Название курса 
 :-----------:|:----------:|------------------------  
-![](https://clck.ru/Pijr6)|Июль 2020|  ![](https://clck.ru/PihTj)  [Программа обучения по Data Science](https://praktikum.yandex.ru/profile/data-scientist/order/) |
+![](https://clck.ru/Pijr6)|Июль 2020|  ![](https://clck.ru/PihTj)  [Программа обучения Аналитик данных](https://praktikum.yandex.ru/profile/data-scientist/order/) |
 ![](https://clck.ru/Pidrg)|Июнь 2020|  ![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Python-программист|
 ![](https://clck.ru/Pidrg)|Май 2020|  ![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Протокол HTTP|
 ![](https://clck.ru/Pidrg)|Апрель 2020| [Алгоритмы и tkinter: занятия с тьютором:](https://vk.com/lambda_brain) [ссылка на мои упражнения](https://github.com/konicaRu/data_structures_and_algorithms), [упражнение с tkinter](https://github.com/konicaRu/studying_tkinter)|
