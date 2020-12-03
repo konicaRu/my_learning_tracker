@@ -1,7 +1,7 @@
 # Мой путь обучения на Python програмиста
 # Learning
 
-  Статус | Год |    Название курса 
+  
 :-----------:|:----------:|------------------------  
 ![](https://clck.ru/Pijr6)|Июль 2020|  ![](https://clck.ru/PihTj)  [Программа обучения Аналитик данных](https://praktikum.yandex.ru/profile/data-scientist/order/) |
 ![](https://clck.ru/Pidrg)|Июнь 2020|  ![](https://clck.ru/PifeJ) [Хекслет — практические курсы по программированию.](https://ru.hexlet.io) Python-программист|
